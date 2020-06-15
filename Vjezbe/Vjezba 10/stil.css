@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+	color: green;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 146x;
+	line-height: 18px;
+	width: 600 px;
+	background-color: antiquewhite;
+	padding: 20px;
+	
+}
+.paragraf_2 {color: darkcyan; background-color: rgba(255, 255, 255, 0.5);}
+.novi_blok {
+background-color: rgba(255, 255, 255, 0.5);
+	padding: 20px;
+	margin: 20px;
+	width:  50%;
+}
+
+h1, h2 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: cadetblue;
+}
+span {
+	color: mediumvioletred;}
+.pozadina {
+	background-image: url("Slike/IMG_20200318_161524.jpg")
+}
+.drugapozadina {
+	background-color: darkcyan;
+}
+a:link {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 25px;
+	border: 1px solid #000000;
+}
+a:hover {
+	background-color: azure;	
+}
+img {
+	height: 200px;
+}
